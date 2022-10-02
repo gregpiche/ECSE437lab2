@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "db1c93b1_d4a56276",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020579
+      },
+      "writtenOn": "2022-10-02T15:26:12Z",
+      "side": 1,
+      "message": "We are almost there! You just need to address one comment in the README.md.  I\u0027m sure it will help new collaborators with onboarding.",
+      "revId": "166344bbbffc0b8c820c59cb445d57de2435fa08",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fd1b53b9_965ef748",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020579
+      },
+      "writtenOn": "2022-10-02T15:26:12Z",
+      "side": 1,
+      "message": "Add small description of repo.",
+      "revId": "166344bbbffc0b8c820c59cb445d57de2435fa08",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
